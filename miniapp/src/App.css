@@ -1,8 +1,24 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+
+.menu.nav {
+  display: flex;
+  border: 2px solid black;
+  background-color: black;
+}
+
+.menu.div-btn {
+  margin: 1pt;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.menu.btn {
+  width: 100%;
+}
+
+.menu.img {
+  width: 16px;
+  height: 16px;
+  background-color: red;
 }
 
 .logo {
